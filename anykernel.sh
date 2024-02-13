@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=SiLonT-Kernel
+kernel.string=Virtuosa-Kernel
 do.devicecheck=1
 do.modules=0
 do.systemless=1
